@@ -1,0 +1,21 @@
+body{
+    background-image: radial-gradient(circle, #71c5ee, #53a7d8, #3889c1, #1e6caa, #025091);
+}
+
+.container{
+    background-color: #151515;
+    color: white;
+    margin-top: 400px;
+    border-radius: 50px;
+    width: 400px;
+}
+
+#title{
+    font-family: 'Amatic SC', cursive;
+    font-size: 60px;
+}
+
+#title2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
